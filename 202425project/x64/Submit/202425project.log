@@ -1,0 +1,8 @@
+﻿  Prototype.cpp
+  Competition.cpp
+  Simulator.cpp
+  Submit.cpp
+C:\Users\toren\Downloads\202425ProjectTemplate\202425project\202425project\template\Submit.cpp(25,35): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+  Generating Code...
+  Suppressed 1 warnings (1 with check filters).
+  202425project.vcxproj -> C:\Users\toren\Downloads\202425ProjectTemplate\202425project\x64\Submit\202425project.exe
